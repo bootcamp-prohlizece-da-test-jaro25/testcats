@@ -1,0 +1,83 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfaf6;
+    color: #5a4a42;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    color: #3e322c;
+}
+
+/* Header */
+header {
+    background: #f5ebe0;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #5a4a42;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #a37b68;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to bottom, rgba(237, 233, 233, 0.3), rgba(236, 232, 232, 0.5)), url('pexels-carmela-dinardo-317849-1669648.jpg') no-repeat center center/cover;
+    padding: 100px 20px;
+    color: #3e322c;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+.btn {
+    display: inline-block;
+    background: #a37b68;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.btn:hover {
+    background: #5a4a42;
+}
+
+/* Sections */
+section {
+    padding: 50px 20px;
+}
+
+footer {
+    background: #f5ebe0;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
