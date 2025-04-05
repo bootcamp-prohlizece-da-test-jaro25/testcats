@@ -42,7 +42,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(to bottom, rgba(237, 233, 233, 0.3), rgba(236, 232, 232, 0.5)), url('pexels-carmela-dinardo-317849-1669648.jpg') no-repeat center center/cover;
+    background: linear-gradient(to bottom, rgba(237, 233, 233, 0.3), rgba(236, 232, 232, 0.5)), url('coffeetime.jpg') no-repeat center center/cover;
     padding: 100px 20px;
     color: #3e322c;
 }
