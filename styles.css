@@ -3,14 +3,18 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fdfaf6;
-    color: #5a4a42;
+    background-color: #efa17a;
+    color: #f9e6c9;
     text-align: center;
 }
 
-h1, h2 {
+h1 {
     font-family: 'Playfair Display', serif;
     color: #3e322c;
+}
+h2 {
+    font-family: 'Papyrus', serif;
+    color: #f03106;
 }
 
 /* Header */
@@ -48,10 +52,12 @@ nav a:hover {
 }
 
 .hero h2 {
+    font-family: 'Playfair Display';
     font-size: 2.5em;
 }
 
 .hero p {
+    font-family: 'Papyrus';
     font-size: 1.2em;
 }
 
